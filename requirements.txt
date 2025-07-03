@@ -4,3 +4,5 @@ numpy
 yfinance
 matplotlib
 scikit-learn
+seaborn
+
